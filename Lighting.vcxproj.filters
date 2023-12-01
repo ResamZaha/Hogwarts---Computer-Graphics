@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Study\opengl\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basic_camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pointLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="walls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawcube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="roundTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sofa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="directionalLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lamp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pillow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dining.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="diningwithoutchair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="almari.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bookshelf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="benchtoll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sofatable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="staircase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cylinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bedroom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="halfsphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="floorlampholder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="candles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="classroom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="halfcylinder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trapezium.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flatcircle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wondow_shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RightangleTriangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parabola.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="potionClassroom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tableTop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Castle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pyramid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flying.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shader\fragmentShader.fs" />
+    <None Include="Shader\GouraudShading\fragmentShader.fs" />
+    <None Include="Shader\PhongShading\fragmentShader.fs" />
+    <None Include="Shader\PhongShadingWithTexture\fragmentShader.fs" />
+    <None Include="Shader\vertexShader.vs" />
+    <None Include="Shader\GouraudShading\vertexShader.vs" />
+    <None Include="Shader\PhongShading\vertexShader.vs" />
+    <None Include="Shader\PhongShadingWithTexture\vertexShader.vs" />
+  </ItemGroup>
+</Project>
