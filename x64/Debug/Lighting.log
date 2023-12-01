@@ -1,0 +1,488 @@
+﻿  main.cpp
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Cylinder.h(152,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Cylinder.h(151,24): warning C4101: 'normalX': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Cylinder.h(151,33): warning C4101: 'normalY': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Cylinder.h(151,18): warning C4101: 'y': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Cylinder.h(151,42): warning C4101: 'normalZ': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere.h(179,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere.h(180,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere.h(182,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bed.h(239,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bed.h(239,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bed.h(239,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\walls.h(21,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\walls.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\walls.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\walls.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\roundTable.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(34,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(42,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(49,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(57,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(65,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(73,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(81,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(10,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(10,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofa.h(10,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\chair.h(11,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\chair.h(11,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Lamp.h(21,9): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Lamp.h(57,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Lamp.h(57,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Lamp.h(57,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Lamp.h(30,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Lamp.h(30,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Pillow.h(18,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Pillow.h(10,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Pillow.h(10,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(130,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(130,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(175,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(184,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(133,90): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(133,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(133,97): warning C4101: 'ttranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\dining.h(133,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\almari.h(12,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\almari.h(12,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\almari.h(12,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(16,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(19,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(12,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(12,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(12,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(230,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(230,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(231,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(233,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(236,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(135,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(135,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(135,94): warning C4101: 'ttranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bookShelf.h(135,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\halfsphere.h(172,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\halfsphere.h(173,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\halfsphere.h(174,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\halfsphere.h(202,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flatcircle.h(129,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flatcircle.h(128,24): warning C4101: 'normalX': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flatcircle.h(128,33): warning C4101: 'normalY': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flatcircle.h(128,18): warning C4101: 'y': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flatcircle.h(128,42): warning C4101: 'normalZ': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(15,87): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(15,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(15,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(15,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(37,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(97,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(97,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(97,97): warning C4101: 'temp': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(141,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(141,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(142,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(139,90): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(139,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(139,103): warning C4101: 'ytranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(139,77): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(139,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\tableTop.h(139,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(15,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(15,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(126,87): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(126,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(126,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(126,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(349,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(368,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(380,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(383,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(401,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(414,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(426,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(438,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(219,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(219,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(458,87): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(458,100): warning C4101: 'ytranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(458,112): warning C4101: 'ttranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\benchtoll.h(458,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofatable.h(13,87): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofatable.h(13,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sofatable.h(13,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(15,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(15,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(31,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(63,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(71,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(82,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(95,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(101,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(105,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(110,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(18,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(18,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(122,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(122,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(138,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(208,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(125,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(125,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(227,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(227,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(243,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(249,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(275,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(283,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(294,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(307,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(312,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(316,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(321,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(230,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\staircase.h(230,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\candles.h(40,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\candles.h(15,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\candles.h(15,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\candles.h(15,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\candles.h(15,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\candles.h(15,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(28,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(41,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(41,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(52,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(16,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(16,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(16,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(16,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(98,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(98,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\wallFireHolder.h(98,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(17,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(17,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(17,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(17,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(17,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(57,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(57,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\floorlampholder.h(57,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(64,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(152,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(155,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(157,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(190,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(207,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(225,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(227,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(260,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(275,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(289,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(299,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(23,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\GreatHall.h(23,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\librarybenchtool.h(11,87): warning C4101: 'model': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\librarybenchtool.h(11,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\librarybenchtool.h(11,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(103,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(106,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(108,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(127,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(146,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(159,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(174,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(184,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Library.h(24,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(42,7): warning C4305: '=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(98,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(98,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(98,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(27,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(27,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\bedroom.h(27,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\classroom.h(659,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\classroom.h(696,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\classroom.h(762,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\classroom.h(27,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\classroom.h(27,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(210,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(263,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(273,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(283,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(28,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(28,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\potionClassroom.h(28,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(36,1): warning C4010: single-line comment contains line-continuation character
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(91,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(102,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(28,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(28,59): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(28,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\Castle.h(28,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(190,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(191,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(193,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(270,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(271,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(275,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(326,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(327,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\sphere2.h(332,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flying.h(34,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flying.h(44,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flying.h(27,29): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flying.h(27,44): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flying.h(27,99): warning C4101: 'xtranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\flying.h(27,87): warning C4101: 'ztranslate': unreferenced local variable
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(59,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(59,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(59,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(60,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(60,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(60,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(61,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(61,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(61,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(62,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(62,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(62,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(63,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(63,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(63,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(64,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(64,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(64,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(65,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(65,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(65,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(66,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(66,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(66,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(67,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(67,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(67,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(68,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(68,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(68,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(69,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(69,13): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(69,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(70,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(70,21): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(71,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(71,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(71,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(72,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(72,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(72,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(73,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(73,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(73,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(74,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(74,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(74,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(106,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(707,47): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(708,52): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(709,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(711,75): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(712,75): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(713,75): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(714,75): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(716,75): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(717,71): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(718,71): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(719,71): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(722,71): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(726,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(733,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\main.cpp(740,29): warning C4305: '+=': truncation from 'double' to 'float'
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+  Lighting.vcxproj -> C:\Study\4-2\CSE 4208 (Graphics Lab)\Image-Assignment\Hogwarts\Lighting Student Version\x64\Debug\Lighting.exe
